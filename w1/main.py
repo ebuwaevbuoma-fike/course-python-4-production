@@ -124,6 +124,7 @@ def main():
 if __name__ == '__main__':
     main()
 #test the generator
+#comment out
     # dp =DataProcessor('/workspace/course-python-4-production/data/tst/2015.csv')
 
     # print(revenue_per_region(dp))
